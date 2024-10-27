@@ -1,0 +1,53 @@
+{/* ini data hardcode */}
+                <tr>
+                  {/* product id  */}
+                  <td scope="row">#1</td>
+
+                  {/* product name  */}
+                  <td className="fw-bold">MILLBERGET</td>
+
+                  {/* product image  */}
+                  <td>
+                    <img
+                      src="https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/201/1020142_PE831799_S4.jpg"
+                      className="img-fluid"
+                    />
+                  </td>
+
+                  {/* product description  */}
+                  <td>Swivel chair, murum black</td>
+
+                  {/* product stock  */}
+                  <td>13</td>
+
+                  {/* product price  */}
+                  <td className="fw-bold">Rp1.599.000</td>
+
+                  {/* product author  */}
+                  <td>admin@mail.com</td>
+
+                  <td>
+                    <span className="d-flex">
+                      {/* tombol delete  */}
+                      <a href="" className="ms-3">
+                        <span className="icon material-symbols-outlined text-danger">
+                          delete
+                        </span>
+                      </a>
+
+                      {/* tombol edit  */}
+                      <a href="" className="ms-3">
+                        <span className="icon material-symbols-outlined text-danger">
+                          edit
+                        </span>
+                      </a>
+
+                      {/* tombol upload  */}
+                      <a href="" className="ms-3">
+                        <span className="icon material-symbols-outlined text-danger">
+                          image
+                        </span>
+                      </a>
+                    </span>
+                  </td>
+                </tr>

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Small Lion Polo",
+    "description": "Chino shorts with a minimalist design for daily style",
+    "price": 353000,
+    "stock": 100,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "id": 2,
+    "name": "Giordano Men's Cotton Twill",
+    "description": "These versatile shorts are perfect for casual outings, providing comfort and style.",
+    "price": 329000,
+    "stock": 60,
+    "imgUrl": "https://images.giordano.com/productphoto/01102208001/50_2_1_1_1000_1000.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 3,
+    "name": "Women's Linen Cotton Shirt Crew Neck",
+    "description": "Basic monochromatic shirt for a minimalist look.",
+    "price": 374500,
+    "stock": 35,
+    "imgUrl": "https://images.giordano.com/productphoto/05343202001/01_2_0_3_1000_1000.jpg",
+    "categoryId": 6,
+    "authorId": 1
+  },
+  {
+    "id": 4,
+    "name": "Giordano Cargo Pants",
+    "description": "Comfortable cargo pants for daily casual look.",
+    "price": 229000,
+    "stock": 50,
+    "imgUrl": "https://images.giordano.com/productphoto/01111019002/66_2_1_1_0500_0500.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "id": 5,
+    "name": "Women's G-MOTION Seamless Knitted Sport Tank",
+    "description": "Breathable jersey knit.",
+    "price": 79000,
+    "stock": 30,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "id": 6,
+    "name": "Solid Ankle Socks (2-pairs)",
+    "description": "Rib top. Reinforced toe and heel.",
+    "price": 50000,
+    "stock": 70,
+    "imgUrl": "https://images.giordano.com/productphoto/01156018002/03_1_2_1_0375_0375.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "id": 7,
+    "name": "Men's Classic Fit T-Shirt",
+    "description": "Soft cotton tee for everyday wear.",
+    "price": 150000,
+    "stock": 80,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "id": 8,
+    "name": "Women's Active Joggers",
+    "description": "Comfortable joggers for workouts or lounging.",
+    "price": 199000,
+    "stock": 40,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "id": 9,
+    "name": "Men's Chino Shorts",
+    "description": "Stylish and versatile shorts for summer.",
+    "price": 299000,
+    "stock": 55,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 10,
+    "name": "Women's Relaxed Fit Blouse",
+    "description": "Lightweight and breezy for warm days.",
+    "price": 215000,
+    "stock": 25,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 6,
+    "authorId": 2
+  },
+  {
+    "id": 11,
+    "name": "Men's Casual Sneakers",
+    "description": "Comfortable sneakers for all-day wear.",
+    "price": 450000,
+    "stock": 30,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "id": 12,
+    "name": "Women's Sporty Cap",
+    "description": "Perfect accessory for outdoor activities.",
+    "price": 89000,
+    "stock": 100,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "id": 13,
+    "name": "Men's Slim Fit Jeans",
+    "description": "Stylish jeans that fit perfectly.",
+    "price": 499000,
+    "stock": 20,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 14,
+    "name": "Women's A-Line Skirt",
+    "description": "Flattering skirt for any occasion.",
+    "price": 229000,
+    "stock": 45,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 6,
+    "authorId": 2
+  },
+  {
+    "id": 15,
+    "name": "Men's Lightweight Jacket",
+    "description": "Perfect for layering on chilly days.",
+    "price": 750000,
+    "stock": 15,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "id": 16,
+    "name": "Women's Stretch Yoga Pants",
+    "description": "Ideal for yoga and other workouts.",
+    "price": 299000,
+    "stock": 50,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "id": 17,
+    "name": "Men's Sports Watch",
+    "description": "Durable watch for sports enthusiasts.",
+    "price": 1200000,
+    "stock": 20,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "id": 18,
+    "name": "Women's Backpack",
+    "description": "Stylish and functional for everyday use.",
+    "price": 850000,
+    "stock": 25,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "id": 19,
+    "name": "Men's Casual Belt",
+    "description": "Classic belt to complete any outfit.",
+    "price": 95000,
+    "stock": 80,
+    "imgUrl": "https://images.giordano.com/productphoto/01013204002/07_2_1_3_1000_1000.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "id": 20,
+    "name": "Women's Cozy Cardigan",
+    "description": "Soft and warm cardigan for layering.",
+    "price": 299000,
+    "stock": 40,
+    "imgUrl": "https://images.giordano.com/productphoto/05326386001/07_1_2_1_0500_0500.jpg",
+    "categoryId": 6,
+    "authorId": 2
+  }
+]

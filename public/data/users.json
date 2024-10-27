@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "username": "johnDoe",
+      "email": "john.doe@example.com",
+      "password": "123456",
+      "role": "Admin",
+      "phoneNumber": "+1234567890",
+      "address": "123 Main St, Cityville, ST, 12345"
+    },
+    {
+      "id": 2,
+      "username": "jakeSmith",
+      "email": "jake.smith@example.com",
+      "password": "123456",
+      "role": "Staff",
+      "phoneNumber": "+0987654321",
+      "address": "456 Elm St, Townsville, ST, 54321"
+    },
+    {
+        "id": 3,
+        "username": "alex",
+        "email": "alex@example.com",
+        "password": "123456",
+        "role": "Staff",
+        "phoneNumber": "+1234567890",
+        "address": "123 Main St, Cityville, ST, 12345"
+      },
+      {
+        "id": 4,
+        "username": "janeSmith",
+        "email": "jane.smith@example.com",
+        "password": "123456",
+        "role": "Staff",
+        "phoneNumber": "+0987654321",
+        "address": "456 Elm St, Townsville, ST, 54321"
+      },
+      {
+        "id": 5,
+        "username": "aliceJohnson",
+        "email": "alice.johnson@example.com",
+        "password": "123456",
+        "role": "Staff",
+        "phoneNumber": "+1122334455",
+        "address": "789 Oak St, Villageville, ST, 67890"
+      },
+      {
+        "id": 6,
+        "username": "bobBrown",
+        "email": "bob.brown@example.com",
+        "password": "123456",
+        "role": "Staff",
+        "phoneNumber": "+2233445566",
+        "address": "321 Pine St, Hamletville, ST, 13579"
+      }
+  ]
